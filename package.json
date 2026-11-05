@@ -1,0 +1,12 @@
+{
+  "name": "write-it-from-a-blank-file",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node menu.js"
+  },
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
