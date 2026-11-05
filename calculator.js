@@ -6,4 +6,5 @@ let number2 = ask ('What is the next number?');
 
 let result = eval(number1 + operator + number2);
 
-console.log(result);
+
+console.log('Result = ' + result)
